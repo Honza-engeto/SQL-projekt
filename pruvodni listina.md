@@ -5,8 +5,8 @@
 Na základě analýzy vývoje průměrné hrubé mzdy v jednotlivých odvětvích v letech 2009–2021 lze říci, že mzdy dlouhodobě rostou. Nicméně v některých letech a v určitých odvětvích dochází k meziročním poklesům.
 
 Například:
-- Kulturní, zábavní a rekreační činnosti: pokles v roce 2013 o **-2,73 %**.
-- Zemědělství, lesnictví, rybářství: pokles v roce 2013 o **-3,85 %**.
+- Peněžnictví a pojišťovnictví: pokles v roce 2013 o **-9 %**.
+- Činnosti v oblasti nemovitostí: pokles v roce 2020 o **-7.17 %**.
 - Podobné výkyvy lze najít i v odvětvích jako ubytování a stravování, těžba nebo veřejná správa.
 
 Celkově je trend pozitivní, ale v obdobích s ekonomickými otřesy se objevují výkyvy směrem dolů.
@@ -66,3 +66,4 @@ Příklady:
 - **2009** – propad HDP → pokles mezd až se zpožděním, někdy vůbec.
 
 Závěr: HDP má vliv, ale ten se může projevit až v dalších letech a je ovlivněn dalšími faktory (inflace, politika zaměstnanosti, fiskální zásahy státu apod.).
+
