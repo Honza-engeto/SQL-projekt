@@ -59,11 +59,25 @@ To znamená, že potraviny zdražily výrazněji než rostly mzdy, ale nedošlo 
 
 ## Otázka 5 – Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 
-Ano, ale **nejde o přímou a okamžitou závislost**. Vliv HDP je často **zpožděný** a závislý na dalších faktorech.
+### Vliv HDP na mzdy:
+Ano, mezi růstem HDP a vývojem mezd existuje zřetelná vazba.  
+Obvykle platí, že pokud HDP roste, projeví se to v růstu mezd – buď ve stejném roce, nebo s mírným zpožděním.
 
-Příklady:
-- **2016** – HDP rostl výrazně → v následujícím roce rostly i mzdy.
-- **2009** – propad HDP → pokles mezd až se zpožděním, někdy vůbec.
+Například:
+- **2006–2007**: HDP až +6,77 %, mzdy až +6,79 %
+- **2012**: HDP −0,79 %, mzdy −1,56 %
 
-Závěr: HDP má vliv, ale ten se může projevit až v dalších letech a je ovlivněn dalšími faktory (inflace, politika zaměstnanosti, fiskální zásahy státu apod.).
+Závěr: HDP má na vývoj mezd prokazatelný vliv, ačkoli konkrétní dopad může ovlivnit i inflace nebo fiskální politika.
+
+---
+
+### Vliv HDP na ceny potravin:
+Vliv HDP na ceny potravin je méně jednoznačný.  
+Růst HDP může být doprovázen růstem cen, ale tato souvislost není konzistentní.
+
+Například:
+- **2016**: HDP +2,54 %, ale ceny potravin klesly o −1,12 %
+- **2017**: HDP +5,17 %, ceny potravin vzrostly o +9,98 %
+
+Závěr: HDP může ovlivňovat i ceny potravin, ale větší roli zde hrají další faktory jako inflace, sezónní výkyvy, situace na světových trzích a měnový kurz.
 
