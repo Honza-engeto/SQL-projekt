@@ -66,4 +66,3 @@ Příklady:
 - **2009** – propad HDP → pokles mezd až se zpožděním, někdy vůbec.
 
 Závěr: HDP má vliv, ale ten se může projevit až v dalších letech a je ovlivněn dalšími faktory (inflace, politika zaměstnanosti, fiskální zásahy státu apod.).
-
