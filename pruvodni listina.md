@@ -18,13 +18,13 @@ Celkově je trend pozitivní, ale v obdobích s ekonomickými otřesy se objevuj
 
 - **2006:**
   - Průměrná mzda: 20 342,38 Kč
-  - Chléb konzumní kmínový (16,12 Kč/kg) → cca **1.262 kg**
-  - Mléko polotučné pasterované (14,44 Kč/l) → cca **1.409 l**
+  - Chléb konzumní kmínový (16,12 Kč/kg) → cca **1262 kg**
+  - Mléko polotučné pasterované (14,44 Kč/l) → cca **1409 l**
 
 - **2018:**
   - Průměrná mzda: 31 980,26 Kč
-  - Chléb konzumní kmínový (24,24 Kč/kg) → cca **1.319 kg**
-  - Mléko polotučné pasterované (19,82 Kč/l) → cca **1.614 l**
+  - Chléb konzumní kmínový (24,24 Kč/kg) → cca **1319 kg**
+  - Mléko polotučné pasterované (19,82 Kč/l) → cca **1614 l**
 
 Z toho vyplývá, že kupní síla u těchto potravin vzrostla – i přes zdražení potravin mzdy rostly rychleji.
 
